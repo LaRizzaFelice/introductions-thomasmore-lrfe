@@ -161,7 +161,7 @@ The following steps will guide you through the process of committing a change on
   and that the file was named correctly.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a pull request</h2></summary>
 
 _Nice work making that commit! :sparkles:_
@@ -239,7 +239,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=X>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations, you've completed this course and joined the world of developers!_
